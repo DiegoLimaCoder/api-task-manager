@@ -7,7 +7,7 @@
 - Cadastrar usuário
 - Fazer login
 
-## Proxima etapa
+## Próxima Etapa
 - Autenticação de JWT
 - Criar Tarefa
 - Ler Tarefas
