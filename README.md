@@ -6,6 +6,7 @@
 ## Fucionalidade desenvolvida
 - Cadastrar usuário
 - Fazer login
+- Criptografando a senha
 
 ## Próxima Etapa
 - Autenticação de JWT
