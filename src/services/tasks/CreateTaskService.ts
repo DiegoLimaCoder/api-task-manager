@@ -18,7 +18,7 @@ class CreateTaskService {
     dueDate,
     user_id,
   }: TaskRequest) {
-    const task = prismaClient.task.create({
+    const task = await prismaClient.task.create({
       data: {
         title,
         description,
