@@ -17,6 +17,9 @@ class ListAllTaskService {
         priority: true,
         dueDate: true,
       },
+      orderBy: {
+        priority: "asc",
+      },
     });
 
     return tasks;
