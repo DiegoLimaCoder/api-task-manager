@@ -7,9 +7,9 @@
 - Cadastrar usuário
 - Fazer login
 - Criptografando a senha
+- Autenticação de JWT
 
 ## Próxima Etapa
-- Autenticação de JWT
 - Criar Tarefa
 - Ler Tarefas
 - Atualizar Tarefa
