@@ -11,6 +11,11 @@
 - Criar Tarefa
 - Ler Tarefas
 - Atualizar Tarefa
-
-## Próxima Etapa
 - Deletar Tarefa
+
+
+## Tecnologia  utilizada
+- Typescript
+- NodeJs (express)
+- Prisma
+- PostgreSQL
