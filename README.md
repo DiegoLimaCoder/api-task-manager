@@ -8,9 +8,9 @@
 - Fazer login
 - Criptografando a senha
 - Autenticação de JWT
+- Criar Tarefa
 
 ## Próxima Etapa
-- Criar Tarefa
 - Ler Tarefas
 - Atualizar Tarefa
 - Deletar Tarefa
