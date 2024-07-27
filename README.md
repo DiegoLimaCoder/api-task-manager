@@ -1,4 +1,4 @@
-## Desenvolvendo um gerenciador de Tarefa
+## Desenvolvendo um Gerenciador de Tarefa
 
 - Ainda em desenvolvimento...
 
