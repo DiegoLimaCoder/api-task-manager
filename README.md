@@ -10,7 +10,7 @@
 - Autenticação de JWT
 - Criar Tarefa
 - Ler Tarefas
+- Atualizar Tarefa
 
 ## Próxima Etapa
-- Atualizar Tarefa
 - Deletar Tarefa
