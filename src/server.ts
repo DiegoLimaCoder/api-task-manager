@@ -4,7 +4,7 @@ import { router } from "./routes/router";
 
 const app = express();
 
-//Configura para a aplicação para  usar JSON no body da requisição
+//Configura a aplicação para  usar JSON no body da requisição
 app.use(express.json());
 app.use(router);
 
